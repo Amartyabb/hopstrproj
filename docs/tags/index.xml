@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Your Future</title>
+    <link>yourfuture.netlify.com/tags/</link>
+    <description>Recent content in Tags on Your Future</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="yourfuture.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Post</title>
+      <link>yourfuture.netlify.com/tags/sample-post/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>yourfuture.netlify.com/tags/sample-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

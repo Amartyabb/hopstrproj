@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your Future</title>
+    <link>yourfuture.netlify.com/</link>
+    <description>Recent content on Your Future</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="yourfuture.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Project</title>
+      <link>yourfuture.netlify.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>yourfuture.netlify.com/about/</guid>
+      <description>Let’s pretend that it’s 2050, and life is better than anyone ever imagined. We can&amp;rsquo;t believe how people use to live in 2018! How barbaric! You&amp;rsquo;re credited in the history books as being central to humanity&amp;rsquo;s success.
+What did you do to make 2050 so remarkable?
+Guidelines: No, there is not a word count. Write enough so that you can explain your idea fully, but not so that it’s a full on dissertation.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>yourfuture.netlify.com/posts/background-image/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>yourfuture.netlify.com/posts/background-image/</guid>
+      <description>This James Madison High School Project was sponsored by Bryan Johnson. He is an entrepreneur and investor, the founder of Kernel, OS Fund, and Braintree. You can read about him on his website.
+Sky Zoom and Amartya Banerjee, two Madison High School juniors, led the project’s implementation.</description>
+    </item>
+    
+    <item>
+      <title>Theme Setup</title>
+      <link>yourfuture.netlify.com/theme-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>yourfuture.netlify.com/theme-setup/</guid>
+      <description>This is a port of the HPSTR theme to Hugo. This theme is perfect for bloggers.
+Get the theme With Git installed, run the following commands inside the Hugo site folder. If Hugo has not yet been installed, read the setup guide here.
+$ mkdir themes $ cd themes $ git clone https://github.com/dldx/hpstr-hugo-theme.git hpstr  You can get a zip of the latest version of the theme from the home page and extract it to the themes folder.</description>
+    </item>
+    
+  </channel>
+</rss>

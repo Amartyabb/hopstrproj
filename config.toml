@@ -6,6 +6,8 @@ pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "hpstrhugo"
+publishDir = "docs"
+
 
 [params]
 	subtitle = "HOW WILL YOU SHAPE THE WORLD?"
