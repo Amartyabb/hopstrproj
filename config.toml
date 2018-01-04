@@ -1,4 +1,4 @@
-baseurl = "yourfuture.netlify.com"
+baseurl = "/"
 languageCode = "en-gb"
 title = "Your Future"
 theme = "hpstr"
