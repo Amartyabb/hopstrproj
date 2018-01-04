@@ -18,3 +18,10 @@ No, there is not a word count. Write enough so that you can explain your idea fu
 
 
 [^1]: Example: *domain.com/category-name/post-title*
+
+## The Process:
+
+Answers to this question will be reviewed by a panel of JMHS faculty judges on Jan. 16, and the 10 selected finalists’ papers will be sent to Bryan Johnson in Los Angeles for winner selections. The three winners will be announced on Feb. 2nd at MADTalks, where Johnson will speak. Each winner will receive $500 in seed funding from Bryan Johnson. 
+
+Email your project in PDF format to skyzoom00@gmail.com, with subject line: 
+YFP_Last, First
